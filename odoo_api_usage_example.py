@@ -26,7 +26,7 @@ from typing import Dict, List
 
 import requests
 
-API_BASE = "http://localhost:8777"         # <-- gateway FastAPI
+API_BASE = "http://34.13.153.241:8777"         # <-- gateway FastAPI
 PROJECT_NAME = "SDK v0.4 Demo (REST)"
 
 logging.basicConfig(level=logging.INFO, format="%(levelname)s: %(message)s")

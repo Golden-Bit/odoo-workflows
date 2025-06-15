@@ -62,6 +62,7 @@ app = FastAPI(
         "url": "https://github.com/your-org/odoo-sdk",
         "email": "support@example.com",
     },
+    root_path="/odoo-api"
 )
 
 
